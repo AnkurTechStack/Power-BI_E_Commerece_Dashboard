@@ -3,10 +3,15 @@ Interactive E-Commerce Dashboard built in Power BI to analyze sales performance,
 
 ## Features
 **Sales & Profit Analysis** – Track overall revenue, profit margins, and growth.
+
 **Category & Product Insights** – Compare performance across categories and products.
+
 **Customer Trends** – Analyze purchasing patterns and top customer segments.
+
 **Regional Performance** – View sales distribution across different locations.
+
 **Dynamic Filtering** – Drill down with slicers for time, region, and category.
+
 **Key KPIs** – Quick access to total sales, profit, and order quantities.
 
 ## How to Use
@@ -17,7 +22,9 @@ Interactive E-Commerce Dashboard built in Power BI to analyze sales performance,
 
 ## Tech Stack
 **Power BI Desktop** – Data visualization & dashboarding
+
 **Excel** – For data preparation
+
 **DAX** – Measures & calculations
 
 ## Use Cases
